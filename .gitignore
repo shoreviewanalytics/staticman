@@ -4,3 +4,4 @@ config.*.json
 node_modules/
 staticman_key
 .env
+
