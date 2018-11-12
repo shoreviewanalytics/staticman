@@ -85,6 +85,7 @@ Would you like to contribute to Staticman? That's great! Here's how:
 - [eduardoboucas.com](https://eduardoboucas.com) ([Source](https://github.com/eduardoboucas/eduardoboucas.github.io))
 - [Made Mistakes](https://mademistakes.com/) ([Source](https://github.com/mmistakes/made-mistakes-jekyll))
 - [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) ([Source](https://github.com/mmistakes/minimal-mistakes))
+- [shoreviewanalytics](https://shoreviewanalytics.github.io/) ([Source](https://github.com/shoreviewanalytics/shoreviewanalytics.github.io))
 - [/wg/ Startpages](http://startpages.cf/) ([Source](https://github.com/twentytwoo/startpages.cf))
 - [mainstrea.ml](https://mainstrea.ml) ([Source](https://github.com/twentytwoo/mainstrea.ml))
 - [Open Source Design Job Board](http://opensourcedesign.net/jobs/) ([Source](https://github.com/opensourcedesign/jobs/))
@@ -103,5 +104,6 @@ Would you like to contribute to Staticman? That's great! Here's how:
 - [BinaryMist](https://binarymist.io/blog) ([Source](https://github.com/binarymist/BinaryMistBlog))
 - [La ruta de la cebada](https://larutadelacebada.com) ([Source](https://github.com/lasocial/larutadelacebada.github.io))
 - [Gatsby Central](https://www.gatsbycentral.com) ([Source](https://github.com/GatsbyCentral/gatsbycentral.com))
+
 
 Are you using Staticman? [Let us know!](https://github.com/eduardoboucas/staticman/edit/master/README.md)
